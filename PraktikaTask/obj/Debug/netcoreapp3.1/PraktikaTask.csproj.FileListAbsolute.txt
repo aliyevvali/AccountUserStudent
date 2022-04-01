@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\bin\Debug\netcoreapp3.1\PraktikaTask.exe
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\bin\Debug\netcoreapp3.1\PraktikaTask.deps.json
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\bin\Debug\netcoreapp3.1\PraktikaTask.runtimeconfig.json
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\bin\Debug\netcoreapp3.1\PraktikaTask.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\bin\Debug\netcoreapp3.1\PraktikaTask.dll
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\bin\Debug\netcoreapp3.1\PraktikaTask.pdb
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.AssemblyInfo.cs
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.dll
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.pdb
+C:\Users\Professional\source\repos\PraktikaTask\PraktikaTask\obj\Debug\netcoreapp3.1\PraktikaTask.genruntimeconfig.cache
